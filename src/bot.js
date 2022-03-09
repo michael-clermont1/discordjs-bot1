@@ -125,5 +125,5 @@ client.on('message', (message) => {
             message.channel.send(' ```Ceased spamming```')
     }}
 }},)
-            
+
 client.login(process.env.DISCORD_TOKEN);
